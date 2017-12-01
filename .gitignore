@@ -1,0 +1,7 @@
+.DS_Store
+*.db
+build/
+node_modules/
+
+.hg/
+.hgignore
